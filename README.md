@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danish Ali</h1>
 <h3 align="center">A passionate Software Engineer Developer from India.</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Ali-Danish03/Ali-Danish03/assets/82708661/ca4938d0-5da8-4b37-abaa-d147adcf7e21">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/6e/a5/fd/6ea5fd598477f4eb62253fc3004039ca.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-danish03&label=Profile%20views&color=0e75b6&style=flat" alt="ali-danish03" /> </p>
